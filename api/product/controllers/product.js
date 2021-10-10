@@ -23,7 +23,7 @@ module.exports = {
         slug: product.slug,
         price: product.price,
         quantity: product.stock,
-        url: "https://localhost:1337/snipcartParser"
+        url: "https://calm-mesa-89712.herokuapp.com/snipcartParser"
         }
     })
   },
